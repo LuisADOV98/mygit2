@@ -3,7 +3,14 @@
 
 
 
+<<<<<<< HEAD
 
+=======
+function sumar(x,y,z) {
+    let resultado = x+y+z
+    return resultado
+}
+>>>>>>> rama2
 
 function restar(x,y=0) {
     let resultado = x-y
